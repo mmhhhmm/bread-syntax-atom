@@ -1,0 +1,16 @@
+{
+  "name": "bread-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "bread colored syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bread"
+  ],
+  "repository": "https://github.com/atom/bread-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
